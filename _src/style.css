@@ -1,0 +1,10 @@
+body {
+    padding: 2vw 20vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.row {
+    display: flex;
+}
+.column {
+    flex: 1;
+}
