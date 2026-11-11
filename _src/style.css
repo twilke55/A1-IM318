@@ -1,6 +1,35 @@
 body {
-    padding: 2vw 20vw;
+    margin: 0;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header, footer {
+    padding: 2vw 5vw;
+    background-color: rgb(28, 42, 56);
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+.hero {
+    background-color: lightslategrey;
+    color: white;
+    padding: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero h1 {
+    font-size: 6rem;
+}
+.wrapper {
+    padding: 5vw;
 }
 .row {
     display: flex;

@@ -10,8 +10,16 @@
     <header>
         {% include "nav.html" %}
     </header>
-    <h1>{{ title }}</h1>
+    {% if title=="Home" %}
+        <div class="hero">
+            <h1>{{ title }}</h1>
+        </div>
+    {% endif %}
+    
     <div class="wrapper">
+        {% if title!="Home" %}
+            <h1>{{ title }}</h1>
+        {% endif %}
         {{ content | safe }}
     </div>
     <footer>
