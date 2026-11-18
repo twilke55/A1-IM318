@@ -3,4 +3,13 @@ layout: layout.njk
 title: Photos
 ---
 
-this is the {{title}} page
+## Here is some of my photography work!
+
+<div class = "row">
+<div class = "column">
+![](/img/IMG_0645.png)
+</div>
+<div class = "column">
+![](/img/wilke_macro2.jpg)
+</div>
+</div>
