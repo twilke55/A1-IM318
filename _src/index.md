@@ -4,13 +4,10 @@ title: Home
 ---
 
 
-## This is my home page
+## This is my IMD portfolio
 
-This is paragraph
+Here you will find my illustrations and photos I have created in the Interactive Media Development
 
-This is another paragraph
-
-- this is list item 1
-- this is list item 2
-- this is list item 3
+ - Please hire me
+ - I like taking photos
 
