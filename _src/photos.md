@@ -11,6 +11,6 @@ title: Photos
 
 </div>
 <div class = "column">
-![](/img/wilke_macro2.jpg)
+![stuff](/img/wilke_macro2.jpg)
 </div>
 </div>
