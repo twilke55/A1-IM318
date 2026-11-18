@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: photos
+title: Photos
 ---
 
 this is the {{title}} page
