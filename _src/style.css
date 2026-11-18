@@ -1,10 +1,10 @@
 body {
     margin: 0;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 header, footer {
     padding: 2vw 5vw;
-    background-color: rgb(28, 42, 56);
+    background-color: rgb(77, 37, 37);
 }
 nav ul {
     margin: 0;
@@ -14,11 +14,11 @@ nav ul {
     gap: 3rem;
 }
 nav a {
-    color: white;
+    color: rgb(220, 220, 220);
     text-decoration: none;
 }
 .hero {
-    background-color: lightslategrey;
+    background-color: rgb(220, 167, 167);
     color: white;
     padding: 3vw;
     display: flex;
