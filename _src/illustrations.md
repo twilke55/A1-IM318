@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: My Work
+title: Illustrations
 ---
 
 ## Enjoy the work I've done!
