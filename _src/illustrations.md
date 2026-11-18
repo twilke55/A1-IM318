@@ -3,17 +3,18 @@ layout: layout.njk
 title: Illustrations
 ---
 
-## Enjoy the work I've done!
+## See the things I've drawn in Illustrator
+![A cave full of mushrooms](_site/img/Wilke_Im212_A2.jpg)
 
 <div class="row">
 <div class="column">
 
-This is a fluffy bird!
+This is the cave's inhabitant
 
 </div>
 <div class="column">
 
-![A bird all fluffed in the winter on a branch with berries](/img/boid.jpg)
+![A bird all fluffed in the winter on a branch with berries](_site/img/Wilke_MantisProfile.jpg)
 
 </div>
 </div>
