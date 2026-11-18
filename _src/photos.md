@@ -7,7 +7,8 @@ title: Photos
 
 <div class = "row">
 <div class = "column">
-![](/img/IMG_0645.png)
+![text](/img/IMG_0645.png)
+
 </div>
 <div class = "column">
 ![](/img/wilke_macro2.jpg)
