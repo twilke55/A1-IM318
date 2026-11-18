@@ -21,8 +21,10 @@ This is the cave's inhabitant
 </div>
 
 
+</div>
+
+<div class = "row">
 ![A punk poster using different forms of typography](/img/punk.jpg)
 
 This is a punk poster which was made to break the rules of typography
-
 </div>
