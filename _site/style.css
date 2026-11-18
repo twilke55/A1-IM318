@@ -37,3 +37,7 @@ nav a {
 .column {
     flex: 1;
 }
+
+.column p{
+    font-size: 2rem;
+}
