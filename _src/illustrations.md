@@ -14,20 +14,24 @@ This is the cave's inhabitant
 </div>
 <div class="column">
 
-![A mantis mushroom character profile](/img/Wilke_MantisProfile.jpg)
+![A mushroom mantis creature](/img/Wilke_MantisProfile.jpg)
 
 
 
 </div>
-
-
 </div>
 
-<div class = "row">
+<div class="row">
 <div class="column">
-![A punk poster using different forms of typography](/img/punk.jpg)
+
+![A punk poster](/img/punk.jpg)
+
 </div>
-<div class = "column">
-This is a punk poster which was made to break the rules of typography
+<div class="column">
+
+A punk poster which purposefully breaks the rules of typography
+
+
+
 </div>
 </div>
