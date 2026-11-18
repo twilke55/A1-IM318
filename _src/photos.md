@@ -17,12 +17,4 @@ title: Photos
 ![A postacard of the Marina](/img/Wilke_postcard2.jpg)
 
 </div>
-<div class="column">
-
-![A spooky lowkey photo](/img/scary.jpg)
-
-
-
-
-</div>
 </div>
